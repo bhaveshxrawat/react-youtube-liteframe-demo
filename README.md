@@ -1,5 +1,3 @@
-# React Starter Template
-TECH: React.js, TypeScript + SWC
+# DEMO
 
-- Import alias
-- TypeScript shows warnings for unused vars instead of error
+This demo is for the [react-youtube-liteframe](https://github.com/bhaveshxrawat/react-youtube-liteframe) package that lets you tweak the YouTube preview settings.
